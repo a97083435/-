@@ -1,4 +1,4 @@
-# -看电视
+# -看
 
 China0208：https://raw.githubusercontent.com/a97083435/kandianshi/main/China0208.m3u
 
